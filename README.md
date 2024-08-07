@@ -2,6 +2,8 @@
 IEEE VITBHOPAL
 IEEE VITBHOPAL<br>
 
+https://ieeeashborn.netlify.app
+
 *Project Title: SportiTech Edge.<br>
 *Team Name: Ashborn.<br>
 *Team Members: Yuvaraj Jain, Akarshit Agrawal, Jerin Jiss George, Ashutosh Jha, Akshat Mishra<br>
