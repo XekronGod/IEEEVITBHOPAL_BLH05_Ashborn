@@ -18,6 +18,3 @@ Setup Instructions: Open URL to access the website<br>
 Usage Instructions: Peruse the website to find out about the various technologies in sports<br>
 Theme Fit: Sports Tech<br>
 Future Enhancements: Expansion into more type of sports and technologies<br>
-Usage Instructions: Peruse the website to find out about the various technologies in sports<br>
-Theme Fit: Sports Tech<br>
-Future Enhancements: Expansion into more type of sports and technologies<br>
